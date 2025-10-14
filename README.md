@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">🌿 Hey, I'm <span style="color:#00c853;">Octoberluwa</span> 🍃</h1>
 
-<!--
-**octoberluwa/octoberluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Developer • Linux Enthusiast • Systems Builder</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+I'm a developer who loves working across **software, servers, and systems** — turning ideas into reliable, efficient, and elegant solutions.  
+I enjoy experimenting with **backend development**, **automation**, and **Linux environments**, with a focus on simplicity and performance.
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+---
+
+## 🖥️ Server Administration
+
+- 🐧 Built and configured a **home server** running **Ubuntu Server**
+- ⚙️ Deployed and managed services using **Docker**
+- 🌍 Focused on **reliability**, **security**, and **lightweight automation**
+- 🧩 Experimenting with **self-hosting** and **infrastructure-as-code**
+
+---
+
+## 🗄️ Database Management
+
+- Experienced with **MySQL** and **Oracle Database**
+- Interested in **scalable database solutions** and **efficient indexing**
+
+---
+
+## 🧰 Linux Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
+
+---
+
+## 🌿 Current Focus
+
+- Automating **home lab deployments** via **Docker**
+- Exploring **frontend frameworks** like **React** and **Svelte** for rich UI experiences  
+
+---
+
+<p align="center">
+  <a href="https://github.com/octoberluwa">
+    <img src="https://img.shields.io/badge/GitHub-%2300C853.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
