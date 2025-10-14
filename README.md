@@ -1,4 +1,4 @@
-<h1 align="center">🌿 Hey, I'm <span style="color:#00c853;">Octoberluwa</span> 🍃</h1>
+<h1 align="center">🌿 Hey, I'm <span>octoberluwa</span> 🍃</h1>
 
 <p align="center">
   <em>Developer • Linux Enthusiast • Systems Builder</em>
