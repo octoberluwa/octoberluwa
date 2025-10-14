@@ -29,13 +29,5 @@ I enjoy experimenting with **backend development**, **automation**, and **Linux 
 ## 🧩 Database Management
 
 - Experienced with **MySQL** and **Oracle Database**
-- Interested in **scalable database solutions** and **efficient indexing**
-
----
-
-<p align="center">
-  <a href="https://github.com/octoberluwa">
-    <img src="https://img.shields.io/badge/GitHub-%2300C853.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</p>
+- Interested in **scalable database solutions**
 
