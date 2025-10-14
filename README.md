@@ -8,7 +8,7 @@
 
 ## 🌱 About Me
 
-I'm a developer who loves working across **software, servers, and systems** — turning ideas into reliable, efficient, and elegant solutions.  
+I'm a developer who loves working across **software, servers, and systems**.
 I enjoy experimenting with **backend development**, **automation**, and **Linux environments**, with a focus on simplicity and performance.
 
 ---
