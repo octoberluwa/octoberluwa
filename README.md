@@ -13,7 +13,7 @@ I enjoy experimenting with **backend development**, **automation**, and **Linux 
 
 ---
 
-## 💻 Programming Languages
+## 🟢 Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
