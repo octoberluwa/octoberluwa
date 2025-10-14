@@ -26,15 +26,6 @@ I enjoy experimenting with **backend development**, **automation**, and **Linux 
 
 ---
 
-## 🖥️ Server Administration
-
-- 🐧 Built and configured a **home server** running **Ubuntu Server**
-- ⚙️ Deployed and managed services using **Docker**
-- 🌍 Focused on **reliability**, **security**, and **lightweight automation**
-- 🧩 Experimenting with **self-hosting** and **infrastructure-as-code**
-
----
-
 ## 🗄️ Database Management
 
 - Experienced with **MySQL** and **Oracle Database**
