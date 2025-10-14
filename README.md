@@ -26,7 +26,7 @@ I enjoy experimenting with **backend development**, **automation**, and **Linux 
 
 ---
 
-## 🗄️ Database Management
+## 🧩 Database Management
 
 - Experienced with **MySQL** and **Oracle Database**
 - Interested in **scalable database solutions** and **efficient indexing**
