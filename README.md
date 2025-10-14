@@ -13,7 +13,7 @@ I enjoy experimenting with **backend development**, **automation**, and **Linux 
 
 ---
 
-## 🟢 Programming Languages
+## 🧩 Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -23,11 +23,3 @@ I enjoy experimenting with **backend development**, **automation**, and **Linux 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
-
----
-
-## 🧩 Database Management
-
-- Experienced with **MySQL** and **Oracle Database**
-- Interested in **scalable database solutions**
-
