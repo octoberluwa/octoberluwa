@@ -1,4 +1,4 @@
-<h1 align="center">🌿 Hey, I'm octoberluwa 🍃</h1>
+<h1 align="center">🌿 Hey, I'm <i>octoberluwa</i> 🍃</h1>
 
 <p align="center">
   <em>Developer • Linux Enthusiast • Systems Builder</em>
