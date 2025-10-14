@@ -42,23 +42,6 @@ I enjoy experimenting with **backend development**, **automation**, and **Linux 
 
 ---
 
-## 🧰 Linux Experience
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
----
-
-## 🌿 Current Focus
-
-- Automating **home lab deployments** via **Docker**
-- Exploring **frontend frameworks** like **React** and **Svelte** for rich UI experiences  
-
----
-
 <p align="center">
   <a href="https://github.com/octoberluwa">
     <img src="https://img.shields.io/badge/GitHub-%2300C853.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
