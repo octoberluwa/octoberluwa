@@ -16,7 +16,7 @@ I enjoy experimenting with **backend development**, **automation**, and **Linux 
 ## 🧩 Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" style="filter:sepia(1) hue-rotate(149deg);"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" style="filter:sepia(1) saturate(180%) hue-rotate(149deg);"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
