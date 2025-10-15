@@ -5,12 +5,14 @@
 <p align="center">
   <em>Developer • Linux Enthusiast • Systems Builder</em>
 </p>
+
 ---
 
 ## 🧩 About Me
 
 I'm a developer who loves working across **software, servers, and systems**.
 I enjoy experimenting with **backend development**, **automation**, and **Linux environments**, with a focus on simplicity and performance.
+
 ---
 
 <p align="center">
