@@ -5,16 +5,12 @@
 <p align="center">
   <em>Developer • Linux Enthusiast • Systems Builder</em>
 </p>
-
 ---
-
 ## 🧩 About Me
 
 I'm a developer who loves working across **software, servers, and systems**.
 I enjoy experimenting with **backend development**, **automation**, and **Linux environments**, with a focus on simplicity and performance.
-
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"/>
