@@ -1,6 +1,6 @@
 ![IMG_20251014_212327](https://github.com/user-attachments/assets/3600f6e6-5da6-4941-8ba7-5d5128ec29ea)
 
-<h1 align="center">🌿 Heya, I'm <i>octoberluwa</i>! 🍃</h1>
+<h1 align="center">🌿 heya, I'm <i>octoberluwa</i>! 🍃</h1>
 
 <p align="center">
   <em>Developer • Linux Enthusiast • Systems Builder</em>
