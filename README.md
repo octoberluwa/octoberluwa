@@ -6,14 +6,12 @@
 
 ---
 
-## 🌱 About Me
+## 🧩 About Me
 
 I'm a developer who loves working across **software, servers, and systems**.
 I enjoy experimenting with **backend development**, **automation**, and **Linux environments**, with a focus on simplicity and performance.
 
 ---
-
-## 🧩 Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -28,4 +26,6 @@ I enjoy experimenting with **backend development**, **automation**, and **Linux 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 </p>
