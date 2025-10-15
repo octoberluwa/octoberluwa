@@ -11,6 +11,8 @@
 I'm a developer who loves working across **software, servers, and systems**.
 I enjoy experimenting with **backend development**, **automation**, and **Linux environments**, with a focus on simplicity and performance.
 
+![IMG_20251014_212327](https://github.com/user-attachments/assets/3600f6e6-5da6-4941-8ba7-5d5128ec29ea)
+
 ---
 
 <p align="center">
